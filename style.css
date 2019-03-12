@@ -1,4 +1,4 @@
-<style>
+
     .penguin {
       
       --penguin-skin: gray;
@@ -192,4 +192,7 @@
     .penguin * {
       position: absolute;
     }
-  </style>
+
+    body {
+      size: 50%;
+    }
